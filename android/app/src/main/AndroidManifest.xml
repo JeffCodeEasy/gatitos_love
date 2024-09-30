@@ -2,7 +2,7 @@
     <application
         android:label="gatitos_love"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/gatitos_love">
         <activity
             android:name=".MainActivity"
             android:exported="true"
